@@ -29,7 +29,7 @@ html, body {
 
 .left-container {
   grid-area: left;
-  aspect-ratio: 1/4;
+  aspect-ratio: 1/1;
 }
 
 .right-container {
@@ -39,8 +39,8 @@ html, body {
 }
 
 .jpg img {
-  max-width: 10%;
-  max-height: 10%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .head {
