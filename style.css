@@ -29,7 +29,7 @@ html, body {
 
 .left-container {
   grid-area: left;
-  aspect-ratio: 1/1;
+  aspect-ratio: 1/4;
 }
 
 .right-container {
